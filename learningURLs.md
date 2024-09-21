@@ -52,7 +52,7 @@ Educational videos and tutorials that offer visual and hands-on learning experie
 - [**AEM Cloud Service Migration Best Practices**](https://www.youtube.com/watch?v=7BnKSQHk13I)  
   Get ready for the Cloud! - AEM Cloud Service Migration Best Practices.
 
-- [**AEM as a Cloud Service Tutorial**](https://www.youtube.com/watch?v=8woUEhHmkDg&list=PLp5chFE3m-o2twoLBCcRJHgbbqNf7Hw6B)  
+- [**AEM as a Cloud Service Tutorial**](https://youtube.com/playlist?list=PLp5chFE3m-o0P29sewKQTQ7UEyeOHTUwa&si=Q6cxmXHTf9qpFk4I)  
   Explore advanced techniques and features available in AEM as a Cloud Service.
 
 - [**AEM as Cloud Service Architecture from fundamentals**](https://www.youtube.com/watch?v=GGXypwY_Dmc)  
