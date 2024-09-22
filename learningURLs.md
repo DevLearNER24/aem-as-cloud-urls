@@ -42,6 +42,9 @@ Insightful articles and blog posts that provide tips, best practices, and in-dep
 - [**Steps to Migrate AEM to the Cloud**](https://one-inside.com/aem-cloud-service/migrate-aem-onprem-to-cloud/)  
   What are the critical steps for a successful migration to AEM Cloud.
 
+- [**do I need to update ACS commons regularly**](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aemaacs-acs-commons-do-i-need-to-update-acs-commons-regularly/m-p/692495/)  
+  do I need to update ACS commons regularly since AEMaaCS gets updated regularly?.
+
 ## Videos
 
 Educational videos and tutorials that offer visual and hands-on learning experiences for AEM as a Cloud Service.
