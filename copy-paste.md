@@ -1,1 +1,0 @@
-https://github.com/AdobeDocs/experience-manager-learn.en/blob/main/help/foundation/administration/understand-reasons-to-upgrade.md
