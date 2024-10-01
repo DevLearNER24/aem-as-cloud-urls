@@ -55,7 +55,10 @@ Insightful articles and blog posts offering tips, best practices, and in-depth a
   *Discussion on the necessity of regular updates to ACS Commons in sync with AEMaaCS updates.*
 
 - [**Sling Content Distribution (SCD)**](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/operations/replication/)  
-  *Adobe Experience Manager as a Cloud Service uses the Sling Content Distribution capability to move the content to replicate to a pipeline service run on Adobe Developer that is outside of the AEM runtime.*
+  *Adobe Experience Manager as a Cloud Service uses the Sling Content Distribution capability.*
+
+- [**AEM as a Cloud Service Publish Process**](https://blogs.perficient.com/2023/10/12/aem-as-a-cloud-service-publish-process/)  
+  *Publish process is driven by cloud architecture in AEM as a Cloud Service (AEMaaCS).*
 
 ---
 
