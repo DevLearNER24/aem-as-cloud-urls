@@ -54,6 +54,9 @@ Insightful articles and blog posts offering tips, best practices, and in-depth a
 - [**Do I Need to Update ACS Commons Regularly?**](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aemaacs-acs-commons-do-i-need-to-update-acs-commons-regularly/m-p/692495/)  
   *Discussion on the necessity of regular updates to ACS Commons in sync with AEMaaCS updates.*
 
+- [**Sling Content Distribution (SCD)**](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/operations/replication/)  
+  *Adobe Experience Manager as a Cloud Service uses the Sling Content Distribution capability to move the content to replicate to a pipeline service run on Adobe Developer that is outside of the AEM runtime.*
+
 ---
 
 ## Videos
@@ -71,6 +74,9 @@ Engaging and informative videos to enhance your understanding of **AEM as a Clou
 
 - [**AEM as Cloud Service Architecture from Fundamentals**](https://www.youtube.com/watch?v=GGXypwY_Dmc)  
   *A deep dive into AEM as a Cloud Service architecture, from fundamentals like containers to orchestration.*
+
+- [**AEM as Cloud Service Content Replication**](https://www.youtube.com/watch?v=_O4wLuKCeYw)  
+  *A deep dive into AEM as a Cloud Service Sling Content Distribution capability.*
 
 ---
 
